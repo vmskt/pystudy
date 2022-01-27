@@ -4,7 +4,6 @@ def func():
     while n > 0:
         n //= 5
         res += n
-    # print(res, ' нулей в конце факториала')
     return res
 
 print(func(), ' нулей в конце факториала, брат')
