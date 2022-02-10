@@ -1,4 +1,4 @@
-userInput = int(input('Введи положительное целое число, брат: '))
+userInput = int(input('Введи любое целое число, брат: '))
 def count_zeros(n):
     res = 0
     while n > 0:
